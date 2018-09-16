@@ -1,0 +1,11 @@
+{
+  "name": "ke",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/coderwow/ke.git",
+  "author": "kevin <zhouyangweb@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
